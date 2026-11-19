@@ -1,0 +1,15 @@
+{
+  "name": "snack-counter-mvp",
+  "version": "1.0.0",
+  "description": "Small, locally runnable snack counter refill workflow prototype",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node scripts/demo.js",
+    "demo": "node scripts/demo.js",
+    "test": "node --test",
+    "reset": "node scripts/reset.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
